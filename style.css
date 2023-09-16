@@ -30,7 +30,7 @@ h4 {
   display: flex;
   justify-content: space-evenly;
 }
-@media(max-width:400px){
+@media(max-width:500px){
   div{
     background-color: antiquewhite;
     flex-wrap: wrap;
